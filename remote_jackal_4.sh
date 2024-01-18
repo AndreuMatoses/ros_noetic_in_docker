@@ -1,0 +1,2 @@
+export ROS_MASTER_URI=http://cpr-j100-0597:11311
+export ROS_IP=192.168.0.197
